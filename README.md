@@ -28,7 +28,7 @@ When creating an application it is important to think about the organization of 
 - As a user, when I see the word "on" the background color of the box is yellow.
 - As a user, I can see many boxes on the page all acting independently of one another.
 - **Walkthrough GIF**:
-<img src="http://g.recordit.co/dNQI7DseuX.gif" width=250><br>
+- <img src="http://g.recordit.co/dNQI7DseuX.gif" width=250><br>
 
 **Branch**: add-images
 
