@@ -18,7 +18,8 @@ As a developer, it is important to break a problem down into small, manageable s
 
 When creating an application it is important to think about the organization of your code. It is best practice to compartmentalize all the actions in your code by separating logic and display components. `App.js` should be in control of all the top level logic, rendering other components, and passing data to other components.
 
-**Branch**: setup-on-off
+
+**Branch**: setup-on-off **(Completed)**
 
 - As a user, I can see a square box on the screen with a black border and a white background.
 - As a user, I can see the word "off" inside the box.
@@ -26,6 +27,9 @@ When creating an application it is important to think about the organization of 
 - As a user, when I see the word "off" the background color of the box is white.
 - As a user, when I see the word "on" the background color of the box is yellow.
 - As a user, I can see many boxes on the page all acting independently of one another.
+-  **Walkthrough of User Stories Completed GIF**:
+ 
+ <img src="http://g.recordit.co/dNQI7DseuX.gif" width=300><br>
 
 **Branch**: add-images
 
