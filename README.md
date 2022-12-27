@@ -31,12 +31,15 @@ When creating an application it is important to think about the organization of 
  
  <img src="http://g.recordit.co/dNQI7DseuX.gif" width=300><br>
 
-**Branch**: add-images
+**Branch**: add-images **(Completed)**
 
 - As a user, instead of seeing a box I can see a picture of a light switch in the "off" position.
 - As a user, when I click on the light switch it turns "on".
 - As a user, when the light switch is "off" I see a white light bulb.
 - As a user, when I turn the switch "on" I see a yellow light bulb.
+- **Walkthrough of User Stories Completed GIF**:
+
+<img src="http://g.recordit.co/nvUp0uTxCs.gif" width=300><br>
 
 ### 🏔 Stretch Goals
 
